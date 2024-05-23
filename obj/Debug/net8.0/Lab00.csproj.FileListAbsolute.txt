@@ -1,0 +1,14 @@
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\Lab00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\Lab00.AssemblyInfoInputs.cache
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\Lab00.AssemblyInfo.cs
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\Lab00.csproj.CoreCompileInputs.cache
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\bin\Debug\net8.0\Lab00.exe
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\bin\Debug\net8.0\Lab00.deps.json
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\bin\Debug\net8.0\Lab00.runtimeconfig.json
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\bin\Debug\net8.0\Lab00.dll
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\bin\Debug\net8.0\Lab00.pdb
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\Lab00.dll
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\refint\Lab00.dll
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\Lab00.pdb
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\Lab00.genruntimeconfig.cache
+C:\Users\elimd\OneDrive\Documents\OOP2\Lab00\obj\Debug\net8.0\ref\Lab00.dll
